@@ -266,5 +266,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=gipo355&show_
 align="center" 
 src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&locale=en"
  alt="gipo355" /></p>
-
-
