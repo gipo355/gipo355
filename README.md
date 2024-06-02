@@ -71,39 +71,27 @@
 
 <br/>
 
+<br/>
+
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center">
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipo355&hide_border=true&layout=compact" align="right" /></div>
+</div>
 
 <br/>
-
-## Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-Posts
-
-<!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
+<img src="https://komarev.com/ghpvc/?username=gipo355&&style=flat-square" align="center" />
+</div>
+
 <br/>
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
-                    align="center"
-                />
-            </a></div>
+<div align="center"></div>
+
 <br />
 
 ---
