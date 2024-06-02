@@ -6,7 +6,7 @@
 
 <br/>
   
-- 🔭 I’m currently studying to be a full-stack dev  
+- 🔭 I’m currently studying to be a full-stack dev.
   
 - 🌱 I’m currently learning React, Angular, Nestjs and Go.
 
@@ -14,11 +14,11 @@
 
 - ❤️ I love typescript, nodejs and its ecosystem, and golang!
 
-- 🤖 I like automating stuff, diving into devops
+- 🤖 I like automating stuff, diving into devops.
 
-- 📝 I would like to learn C# and Rust
+- 📝 I would like to learn C# and Rust.
 
-- 🛠️ My main tools: Arch, I3, Neovim, VSCode, Tmux
+- 🛠️ My main tools: Arch, I3, Neovim, VSCode, Tmux.
 
 <br/>
 
