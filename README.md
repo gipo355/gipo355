@@ -71,26 +71,16 @@
 
 <br/>
 
-<br/>
-
 ## Github Stats
 
-<div align="center">
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipo355&hide_border=true&layout=compact" align="center" /></div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipo355&hide_border=true&layout=compact" align="right" /></div>
-</div>
-
-<br/>
 <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gipo355&&style=flat-square" align="center" />
 </div>
-
-<br/>
-
-<div align="center"></div>
 
 <br />
 
