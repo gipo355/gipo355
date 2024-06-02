@@ -3,13 +3,28 @@
 </div>  
   
 
-### <div align="center">I'm Gipo355, a full-time full-stack freelance developer 👨‍💻 Writing since 2021 🚀</div>  
+### <div align="center">I'm Gipo355, a full-time full-stack developer 👨‍💻 Writing boilerplate since 2021 🚀</div>  
   
 
 - 🔭 I’m currently studying to be a full-stack dev  
   
 
-- 🌱 I’m currently learning React, Angular, Nestjs and Go. 
+- 🌱 I’m currently learning React, Angular, Nestjs and Go.
+
+
+- 🎯 I want to become a highly skilled developer and for this i look up to my idols and the amazing open source projects around.
+
+
+- ❤️ I love typescript, nodejs and its ecosystem, and golang!
+
+
+- 🤖 I like automating stuff, diving into devops
+
+
+- 📝 I would like to learn C# and Rust
+
+
+- 🛠️ My main tools: Arch, I3, Neovim, VSCode, Tmux
   
 
 <br/>  
