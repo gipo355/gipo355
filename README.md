@@ -1,7 +1,5 @@
 <div align="center">
-<img src="
-https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTczMjI3ODAsIm5iZiI6MTcxNzMyMjQ4MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAyVDEwMDEyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1ODY3N2UyNTY5ZWRjOTE4ZDA4OTdiZDhiOWU1NzcxNTZkNTNkZjU3OWE3NzhjNDBkYjY0MzVhMDY5Nzc0MGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kvIBjgI25lX5G_OoVPUIJnJ2ufaaW5JGyH8g4LQl8so
-" align="center" style="width: 100%" />
+<img src="./assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" style="width: 100%" />
 </div>
   
 ### <div align="center">I'm Gipo355, a full-time full-stack developer 👨‍💻 Writing boilerplate since 2021 🚀</div>
