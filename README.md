@@ -73,8 +73,8 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipo355&hide_border=true&layout=compact" align="center" /></div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&count_private=true&hide_border=true" align="center" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipo355&hide_border=true&layout=compact" align="center" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gipo355&" alt="gipo355" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gipo355" alt="gipo355" /></a> </p>
 
