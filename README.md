@@ -83,9 +83,11 @@
 
 ## Github Stats
 
+<div>
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipo355&hide_border=true&layout=compact" align="right" /></div>
+</div>
 
 <br/>
 <br/>
