@@ -54,7 +54,6 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="./assets/rust-logo-512x512.png" alt="Go" height="50" /></a>
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="./assets/nestjs.png" alt="Nestjs" height="50" /></a>
 <a href="https://fastify.dev/" target="_blank"><img style="margin: 10px" src="./assets/fastify.png" alt="Fastify" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="Csharp" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
