@@ -2,38 +2,30 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Gipo355, a full-time full-stack developer 👨‍💻 Writing boilerplate since 2021 🚀</div>  
   
-
 - 🔭 I’m currently studying to be a full-stack dev  
   
-
 - 🌱 I’m currently learning React, Angular, Nestjs and Go.
-
 
 - 🎯 I want to become a highly skilled developer and for this i look up to my idols and the amazing open source projects around.
 
-
 - ❤️ I love typescript, nodejs and its ecosystem, and golang!
-
 
 - 🤖 I like automating stuff, diving into devops
 
-
 - 📝 I would like to learn C# and Rust
 
-
 - 🛠️ My main tools: Arch, I3, Neovim, VSCode, Tmux
-  
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
@@ -50,9 +42,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -67,6 +58,7 @@
 </td><td valign="top" width="33%">
 
 ### DevOps
+
 <div align="center">
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
@@ -79,8 +71,8 @@
 
 <br/>
 
-
 ## Connect with me
+
 <div align="center">
 <a href="https://github.com/gipo355" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,18 +81,14 @@
 
 <br/>
 
-
 ## Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=gipo355&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gipo355&hide_border=true&layout=compact" align="right" /></div>
 
 <br/>
-
-## Recent Blog Posts  
-
 <br/>
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gipo355&&style=flat-square" align="center" />
@@ -112,6 +100,6 @@
 
 <br />
 
-----
+---
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
