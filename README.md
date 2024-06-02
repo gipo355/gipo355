@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
-
-<div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/EK24OWrJSy1GkkNu0y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
   
 ### <div align="center">I'm Gipo355, a full-time full-stack developer 👨‍💻 Writing boilerplate since 2021 🚀</div>
 
