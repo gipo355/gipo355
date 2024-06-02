@@ -30,7 +30,7 @@
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="747px-Svelte_Logo.svg.png" alt="Svelte" height="50" /></a>
+<a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="./assets/747px-Svelte_Logo.svg.png" alt="Svelte" height="50" /></a>
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
