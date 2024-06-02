@@ -80,6 +80,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gipo355&" alt="gipo355" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gipo355" alt="gipo355" /></a> </p>
 
+<p align="center"><img src="https://github.com/gipo355/gipo355/blob/output/github-contribution-grid-snake-dark.svg" alt="gipo355" /></p>
+
 <br/>
 
 <div align="center">
